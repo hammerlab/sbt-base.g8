@@ -1,4 +1,3 @@
-group("$group$")
 name := "$name;format="norm"$"
 $if(scala211.truthy && scala212.truthy)$
 addScala212

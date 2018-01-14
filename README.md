@@ -1,10 +1,10 @@
 # sbt-parent.g8
-[giter8][g8] template [for the [hammerlab/sbt-parent SBT plugin](https://github.com/hammerlab/sbt-parent)
+[giter8][g8] template for hammerlab projects using [the `base` SBT plugin](https://github.com/hammerlab/sbt-parent).
 
 Make a new project:
 
 ```bash
-sbt new hammerlab/sbt-parent.g8
+sbt new hammerlab/sbt-base.g8
 ```
 
 Template license

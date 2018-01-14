@@ -1,1 +1,1 @@
-addSbtPlugin("org.hammerlab.sbt" % "parent" % "$plugin_version$")
+addSbtPlugin("org.hammerlab.sbt" % "base" % "$plugin_version$")
