@@ -1,6 +1,6 @@
 name := "$name;format="norm"$"
 $if(scala211.truthy && !scala212.truthy)$
-scala211Only
+`2.11`.only
 $elseif(!scala211.truthy && scala212.truthy)$
-scala212Only
+`2.12`.only
 $endif$
